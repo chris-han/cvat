@@ -63,3 +63,6 @@ cvat-core/reports
 # produced by prepare in the root package.json script
 .husky
 
+nuctl-1.8.14-linux-amd64
+nuctl-1.8.14-linux-amd64:Zone.Identifier
+sam_vit_h_4b8939.pth

@@ -58,6 +58,7 @@ spec:
       kind: 'http'
       workerAvailabilityTimeoutMilliseconds: 10000
       attributes:
+        port: 64698
         maxRequestBodySize: 33554432 # 32MB
 
   platform:
